@@ -17,3 +17,6 @@
 |<span style="color:yellow"> __git__   <span style="color:green"> __status__</span>|<span style="color:orange">*Выводит состояние проекта, измененные и не добавленные файлы, индексированные файлы*</span>|
 |<span style="color:yellow"> __git__   <span style="color:green"> __commit__</span>|<span style="color:orange">*Совершение коммита*</span>|
 |<span style="color:yellow"> __git__<span style="color:green"> __log__</span>|<span style="color:orange">*Выводит разнообразну информация о коммитах в целом, по отдельным файлам и различной глубины погружения в историю*</span>|
+|<span style="color:yellow"> __git__ <span style="color:green"> __log__<span style="color:red"> __--oneline__</span>|<span style="color:orange">*Показывает лог  commit в одну строчку, после угазания ключа <span style="color:red">__--oneline__* </span>|
+
+### Основные команды git для работы с репозитарием (Ветвление и слияние)
