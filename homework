@@ -16,3 +16,4 @@
 |<span style="color:yellow"> __git__   <span style="color:green">__add__ <span style="color:red"> *<имя_файла>* |<span style="color:orange">*Добавление файла в репозиторий для отслеживания* </span>|
 |<span style="color:yellow"> __git__   <span style="color:green"> __status__</span>|<span style="color:orange">*Выводит состояние проекта, измененные и не добавленные файлы, индексированные файлы*</span>|
 |<span style="color:yellow"> __git__   <span style="color:green"> __commit__</span>|<span style="color:orange">*Совершение коммита*</span>|
+|<span style="color:yellow"> __git__<span style="color:green"> __log__</span>|<span style="color:orange">*Выводит разнообразну информация о коммитах в целом, по отдельным файлам и различной глубины погружения в историю*</span>|
