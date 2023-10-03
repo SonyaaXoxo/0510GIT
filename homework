@@ -5,3 +5,4 @@
 ### Основные команды git для настройки и окружения
 |<span style="color:orange"><div style="width:160px"> __команда__ </div></span>      |<span style="color:orange">*описание*</span>
 |                -                |                 -                                       |
+|<span style="color:yellow"> __git__ <span style="color:green"> __config__<span style="color:red">  __--global user.email "[valid-email]”__</span>|<span style="color:orange">*Вносим в систему Git контактную информацию укажите ваш действующей e-mail* </span>|
