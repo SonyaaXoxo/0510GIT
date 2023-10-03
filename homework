@@ -26,3 +26,4 @@
 |<span style="color:yellow"> __git__ <span style="color:green"> __branch__<span style="color:red">  __\<name>__</span>|<span style="color:orange">*Создание новой ветки с именем <span style="color:red">name* </span>|
 |<span style="color:yellow"> __git__ <span style="color:green"> __checkout__<span style="color:red">  __-b \<name>__</span>|<span style="color:orange">*Создание новой ветки с именем <span style="color:red">name* <span style="color:orange">*и переключением на нее*|
 |<span style="color:yellow"> __git__ <span style="color:green"> __checkout__<span style="color:red">  __\<name>__</span>|<span style="color:orange">*Переключение на ветку <span style="color:red">name* |
+|<span style="color:yellow"> __git__ <span style="color:green"> __merge__<span style="color:red">  __\<name>__</span>|<span style="color:orange">*Вливание в текущую ветку <- ветки с именем( <span style="color:red">name* <span style="color:orange">)|
