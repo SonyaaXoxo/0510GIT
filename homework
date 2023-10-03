@@ -14,3 +14,4 @@
 |                -                |                 -                                       |
 |<span style="color:yellow"> __git__ <span style="color:green"> __init__</span>|<span style="color:orange">*Инициализирует локальный католог, как  репозиторий*</span>|
 |<span style="color:yellow"> __git__   <span style="color:green">__add__ <span style="color:red"> *<имя_файла>* |<span style="color:orange">*Добавление файла в репозиторий для отслеживания* </span>|
+|<span style="color:yellow"> __git__   <span style="color:green"> __status__</span>|<span style="color:orange">*Выводит состояние проекта, измененные и не добавленные файлы, индексированные файлы*</span>|
