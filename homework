@@ -22,3 +22,4 @@
 ### Основные команды git для работы с репозитарием (Ветвление и слияние)
 |<span style="color:orange"><div style="width:160px"> __команда__ </div></span>      |<span style="color:orange">*описание*</span>
 |                -                |                 -                                       |
+|<span style="color:yellow"> __git__ <span style="color:green"> __branch__</span>|<span style="color:orange">*Показывает список веток и текущую отмеченной* (<span style="color:yellow">\*</span>) |
