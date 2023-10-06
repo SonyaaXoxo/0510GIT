@@ -28,8 +28,8 @@
 |<span style="color:yellow"> __git__ <span style="color:white"> __checkout__<span style="color:white">  __\<name>__</span>|<span style="color:green">*Переключение на ветку <span style="color:white">name* |
 |<span style="color:yellow"> __git__ <span style="color:white"> __merge__<span style="color:white">  __\<name>__</span>|<span style="color:green">*Вливание в текущую ветку <- ветки с именем( <span style="color:white">name* <span style="color:orange">)|
 
-
+**Git** — *это система контроля версий. Или другими словами — хранилище, база данных истории разработки проекта. Такая система нужна для учета всех версий файлов когда-либо созданных в проекте и содержащихся в Git (базе данных).*
 
 В данной методичке, мы используем специальный язык- *Markdown*
-
+или *маркдаун*, — это язык разметки для текстовых документов. Он позволяет создавать тексты без использования Word и других редакторов. Разметку можно прочитать и воспроизвести в любой системе или браузере.
 
